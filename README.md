@@ -1,6 +1,6 @@
 # Primer PR con Claude
 
-Este es un repositorio de prueva para aprender el flujo de Pull Requests.
+Este es un repositorio de prueba para aprender el flujo de Pull Requests.
 
 ## Pasos para contribuir
 
